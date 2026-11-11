@@ -1,0 +1,3 @@
+is_hazardous,hazardous_count,avg_miss_km,avg_velocity_kmh
+False,281,40908421.3,41095.3
+True,396,32842407.7,63722.0
